@@ -1,0 +1,63 @@
+Vaccine Formula Theory:
+
+
+ 1  2  3  4  5  6  7    8(n) (a linear number base)
+-4 -4 -4 -4 -4 -4 -4   -4    (a number base co-factor)
++1 +1 +1 +1 +1 +1 +1   +1    (a number system or formula pattern)
+==========================
+-3  3 -1  5  1  7  3    n    (line a,b)
+ 2 -2  4  0  6  2  8    4    (line a,c)
+ |  |  |  |  |  |  |    |
+-1__1__3__5__7__n__n+3_n+4   (line a,b,c)
+   |     |     |      |
+   0  +  n  + 7n  + n^2+7    (formula expression)
+
+ 
+root factors:
+
+               -- -1 --
+               |       |- 0
+             2-| - 1 --
+               | |
+               --| 3 -- 
+               n-|     |- n 
+               --| 5 --
+               | |
+               | - 7 --
+           n^2-|       |- 7n
+               | --n --
+               | |
+               *-| 3+n--
+           n^2+4-|      |- n^2 +7
+                 *-n+4--
+
+
+           
+0 + n + 7n +n^2 + 7  (01) 
+
+
+01
+716
+1121691
+161627169116016 
+161627169116016
+055545653805615 <-"add & carry" 5 to 5 is zero, 5 to 4 is one... carry a zero;) (resequencing and redundancy analasis from virus data)
+050011112585154
+055010001333441
+
+
+A formula based sequence from the original virus would contain segments that are mathematically identical to the virus strain and can be found in the virus and used as a vaccine.
+
+Some patterns for h.i.v. may not result in repetition of tev and can be stored as immunity.
+
+
+A clinical trial has shown that a gene-editing technique can be safe and effective in humans. For the first time, researchers used enzymes called zinc-finger nucleases (ZFNs) to target and destroy a gene in the immune cells of 12 people with HIV, increasing their resistance to the virus. The findings are published today in The New England Journal of Medicine1.
+
+Destroying a gene merely changes the mathematical template of helper-t calls or how we store immunity, the h.i.v. pattern could then be stored according to the new pattern without tev replication. The formula technique above can be used to find vaccines in any virus sequence including h.i.v. 
+
+
+Virus Entropy Synthesis is free and protected by GPL.
+
+
+Vaccine sequences can be studied with bio-informatics software.
+
